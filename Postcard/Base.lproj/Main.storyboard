@@ -88,6 +88,15 @@
                                     <rect key="frame" x="16" y="81" width="309" height="41"/>
                                 </variation>
                             </label>
+                            <label hidden="YES" opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="nameLabel" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="hwI-F6-XkZ">
+                                <rect key="frame" x="0.0" y="-21" width="42" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                                <variation key="widthClass=compact" fixedFrame="YES">
+                                    <rect key="frame" x="30" y="174" width="228" height="21"/>
+                                </variation>
+                            </label>
                             <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="line" placeholder="Enter Name" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="ACG-mg-Tvb">
                                 <rect key="frame" x="0.0" y="-30" width="97" height="30"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
@@ -111,6 +120,7 @@
                                 <exclude reference="ddo-Jn-hFe"/>
                                 <exclude reference="85Y-Hn-IN1"/>
                                 <exclude reference="V2y-WA-sxu"/>
+                                <exclude reference="hwI-F6-XkZ"/>
                                 <exclude reference="ACG-mg-Tvb"/>
                                 <exclude reference="muE-nP-xry"/>
                             </mask>
@@ -120,6 +130,7 @@
                                 <include reference="ddo-Jn-hFe"/>
                                 <include reference="85Y-Hn-IN1"/>
                                 <include reference="V2y-WA-sxu"/>
+                                <include reference="hwI-F6-XkZ"/>
                                 <include reference="ACG-mg-Tvb"/>
                                 <include reference="muE-nP-xry"/>
                             </mask>
@@ -130,6 +141,7 @@
                         <outlet property="enterNameTextField" destination="ACG-mg-Tvb" id="RU7-Lp-hr1"/>
                         <outlet property="mailButton" destination="85Y-Hn-IN1" id="R4w-jz-Zpe"/>
                         <outlet property="messageLabel" destination="V2y-WA-sxu" id="Auc-aD-TtD"/>
+                        <outlet property="nameLabel" destination="hwI-F6-XkZ" id="CZX-5J-NHR"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
