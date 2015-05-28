@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>09453465-673C-4B76-874B-A923FA0A072E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BDF9F1F8B04B71A6EE3056C6DD488354409213B6</key>
+		<string>https://github.com/deanboland/RealPostcard.git</string>
+		<key>FDC10F1EA088067ADA06E64980BD979D09BB9EF2</key>
+		<string>https://github.com/deanboland/postcard.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Postcard.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BDF9F1F8B04B71A6EE3056C6DD488354409213B6</key>
+		<string>../..</string>
+		<key>FDC10F1EA088067ADA06E64980BD979D09BB9EF2</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/deanboland/RealPostcard.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BDF9F1F8B04B71A6EE3056C6DD488354409213B6</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FDC10F1EA088067ADA06E64980BD979D09BB9EF2</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BDF9F1F8B04B71A6EE3056C6DD488354409213B6</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Postcard</string>
+		</dict>
+	</array>
+</dict>
+</plist>
